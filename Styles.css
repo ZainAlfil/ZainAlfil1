@@ -1,0 +1,67 @@
+*
+{
+  scroll-behavior:smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    
+      
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #007BFF;
+}
+
+p {
+    color: #333;
+}
+
+.content-group {
+    margin-bottom: 30px;
+}
+
+div, section, header, footer, article, nav {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #333;
+    background-color: #f0f0f0; /* Default background color */
+}
+
+section {
+    background-color: #ffe0b2; /* Orange background color */
+}
+
+header {
+    background-color: #b2ebf2; /* Blue background color */
+}
+
+footer {
+    background-color: #c8e6c9; /* Green background color */
+}
+
+article {
+    background-color: #ffd54f; /* Yellow background color */
+}
+
+nav {
+    background-color: #d1c4e9; /* Purple background color */
+}
+
+/* Example styling */
+.example {
+    background-color: #ffcdd2; /* Red background color */
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.example-header {
+    background-color: #bbdefb; /* Light Blue background color */
+    padding: 15px;
+}
+
+.example-nav {
+    background-color: #c5e1a5; /* Light Green background color */
+}
